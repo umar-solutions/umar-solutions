@@ -6,54 +6,62 @@
 <p align="center">
   <a href="https://umar-solutions.com">Website</a> •
   <a href="https://www.linkedin.com/in/umarr-asghar/">LinkedIn</a> •
-  <a href="https://bit.ly/47K4UHT">Upwork</a>
+  <a href="https://bit.ly/47K4UHT">Upwork</a> •
+  <a href="https://www.fiverr.com/s/WEqkyb7">Fiverr</a>
 </p>
 
 ---
 
-### 👋 Overview
-I am a Full-Stack Python/Django Developer with **6+ years of professional experience** and a **Master’s candidate in Data Science** at the National University of Science and Technology MISIS (Moscow).
+### Overview
+I am a Full-Stack Python/Django Developer with over **6 years of professional experience** and a **Master’s candidate in Data Science** at the National University of Science and Technology MISIS (Moscow).
 
-I specialize in building **production-grade SaaS platforms, APIs, automation pipelines, and data-driven applications**. My work sits at the intersection of **software engineering and applied data science**, with an emphasis on scalability, reliability, and measurable outcomes.
-
----
-
-### 💼 Professional Capabilities
-- SaaS platforms: multi-tenancy, subscriptions, roles & permissions
-- REST APIs and integrations (JWT/OAuth, Stripe/PayPal, third-party APIs)
-- Data extraction & automation pipelines with structured outputs
-- Dashboards and admin portals (React / Next.js)
-- Cloud deployment and CI/CD workflows
+I design and deliver **production-grade SaaS platforms, APIs, automation pipelines, and data-driven applications**. My work integrates robust software engineering practices with applied data science, emphasizing scalability, reliability, and business-aligned outcomes.
 
 ---
 
-### 🎓 Academic Focus (MSc Data Science)
-- Machine Learning & Applied Analytics
+### Professional Capabilities
+- Design and development of SaaS platforms (multi-tenancy, subscriptions, RBAC)
+- RESTful APIs and third-party integrations (JWT/OAuth, Stripe/PayPal)
+- Data extraction and automation pipelines with structured, reproducible outputs
+- Analytics dashboards and administrative portals (React / Next.js)
+- Cloud-native deployment and CI/CD workflows
+
+---
+
+### Academic Background & Certifications
+- **Master of Science in Data Science**  
+  National University of Science and Technology MISIS, Moscow  
+  Focus: machine learning, data analytics, applied AI
+- **Google Data Analytics Professional Certificate**  
+  Data cleaning, analysis, SQL, R programming, Tableau, and case-study-driven analytics
+
+---
+
+### Academic Interests
+- Machine Learning and Applied Analytics
 - Natural Language Processing (NLP)
 - Computer Vision
-- Data Mining & Feature Engineering
-- Reproducible experimentation and model evaluation
-
-I value **clear problem formulation**, **transparent methodology**, and **deployable solutions** over theoretical-only work.
+- Data Mining and Feature Engineering
+- Reproducible experimentation and evaluation methodologies
 
 ---
 
-### 🚀 Selected Projects
+### Selected Projects
 <details>
 <summary><strong>Scrapeli.io — Lead Generation & Data Extraction SaaS</strong></summary>
 
-- Django + Django REST Framework
-- Subscription billing, dashboards, RBAC
-- Scalable data extraction pipelines  
+- Django and Django REST Framework–based platform
+- Subscription billing, dashboards, and role-based access control
+- Scalable and maintainable data extraction pipelines  
 🔗 https://umar-solutions.com/projects/scrapeliio-linkedin-competitor-follower-scraper-lead-generation-platform/
 </details>
 
 <details>
 <summary><strong>Filtr UK — Specialty Coffee Discovery Platform</strong></summary>
 
-- Django + React
-- Searchable listings, filters, subscriptions
-- Automated data ingestion  
+- Django backend with React frontend
+- Searchable listings, advanced filters, and subscription management
+- Automated data ingestion and normalization  
 🔗 https://umar-solutions.com/projects/filtr-uk-specialty-coffee-discovery-platform/
 </details>
 
@@ -68,41 +76,23 @@ I value **clear problem formulation**, **transparent methodology**, and **deploy
 
 ---
 
-### 🧰 Technology Stack
-**Backend**
-- Python, Django, Django REST Framework
-- FastAPI, Flask
-- Celery, Redis
-
-**Frontend**
-- React.js, Next.js
-- TypeScript, Tailwind CSS
-
-**Data & Automation**
-- PostgreSQL, MySQL, MongoDB
-- Pandas, NumPy
-- Scrapy, Playwright, Selenium
-
-**Cloud & DevOps**
-- Docker, Nginx
-- AWS (EC2, S3, RDS)
-- CI/CD pipelines
-
-**Applied AI**
-- OpenAI APIs, LangChain
-- RAG pipelines
-- scikit-learn
+### Technology Stack
+**Backend:** Python, Django, Django REST Framework, FastAPI, Flask  
+**Frontend:** React.js, Next.js, TypeScript, Tailwind CSS  
+**Data & Automation:** PostgreSQL, MySQL, MongoDB, Pandas, NumPy, Scrapy, Playwright  
+**Cloud & DevOps:** Docker, Nginx, AWS (EC2, S3, RDS), CI/CD  
+**Applied AI:** OpenAI APIs, LangChain, RAG pipelines, scikit-learn
 
 ---
 
-### 📌 Current Focus
+### Current Focus
 - Advanced applied machine learning projects
-- Scalable backend architectures
-- Academic research aligned with real-world systems
-- Clean, maintainable, production-ready codebases
+- Scalable backend and API architectures
+- Academic research aligned with production systems
+- Clean, testable, and maintainable codebases
 
 ---
 
 <p align="center">
-  <i>“Engineering solutions that are both theoretically sound and production-ready.”</i>
+  <i>Engineering solutions that are academically grounded and production-ready.</i>
 </p>
