@@ -24,14 +24,7 @@
 <!-- ========================= -->
 <!-- STATS & STACK -->
 <!-- ========================= -->
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=umar-solutions&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umar-solutions&layout=compact&langs_count=8" />
-</p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux,python,django,fastapi,postgres,redis,docker,aws&perline=12" />
-</p>
 
 <hr/>
 
